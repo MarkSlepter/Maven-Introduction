@@ -13,4 +13,5 @@ public class Operation {
     private final String operation;
     private double result;
 
+
 }
